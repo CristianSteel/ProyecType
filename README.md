@@ -1,2 +1,0 @@
-# ProyecType
-el primer proyecto
